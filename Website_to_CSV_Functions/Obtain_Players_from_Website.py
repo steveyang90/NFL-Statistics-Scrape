@@ -27,7 +27,7 @@ def Get_Players_Current_Status(player,td,Is_Current):
                      'UDF':'Unsigned draft pick','UFA':'Unsigned free agent',
                      'EXE':'Exempt'}
     if Is_Current:
-        player.current_status = Status_Abbrev[td.text]
+        player.current_status = Status_Abbrev.get(td.text, 'Other')
     else:
         player.current_status = 'Retired'
 
@@ -49,13 +49,13 @@ def Get_Player_Information(Players,td_tags,col_num,name_index,status_index,
             Get_Years_Played(player,td,Is_Current)
         elif index == col_num-1:
             Players[player.player_id] = player
-            if not os.path.exists(filename):        
+            if not os.path.exists(filename):
                 headers = ['Player Id','Name','Current Status','Years Played']
                 player.New_CSV_File(filename,headers)
             Stats = [player.player_id,player.name,player.current_status,player.years_played]
             player.Write_Stats_to_CSV(filename,Stats)
             player=Player()
-        count+=1   
+        count+=1
    
 def Obtain_Players_And_Status(initial_url,url_parameters,Max_Page,Players,soup,filename):
     for page_number in range(1,Max_Page+1):
@@ -71,9 +71,12 @@ def Obtain_Players_And_Status(initial_url,url_parameters,Max_Page,Players,soup,f
                 Get_Player_Information(Players,td_tags,12,0,1,2,False,filename)
 
 # Storing happens when Get_Player_Information is called
-def Get_and_Store_All_Players_Names_and_Ids(filename):
+def Get_and_Store_All_Players_Names_and_Ids(filename, active_only=False):
     Players = {}
     PlayerType = ['current','historical']
+    if active_only:
+        PlayerType = ['current']
+    
     for playertype in PlayerType:
         for Last_Name_Beginning in list(string.ascii_uppercase):
             print('Getting %s players whose last name starts with %s' % (playertype,
@@ -90,4 +93,3 @@ def Get_and_Store_All_Players_Names_and_Ids(filename):
                                       soup,filename)
     return Players
  
-
