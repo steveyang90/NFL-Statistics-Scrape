@@ -1,4 +1,5 @@
 import bs4, os.path
+import pathlib
 from Player_Class import *
 from Website_to_CSV_Functions.NFL_Glossary import *
 from Website_to_CSV_Functions.Functions_Needed_For_All_Stats import *
@@ -15,7 +16,7 @@ class Career_Stats(Player):
             if 'colspan' in td.attrs.keys():
                 Col_Cats += [td.text]*int(td.attrs['colspan'])
             else:
-                Col_Cats.append(td.text)            
+                Col_Cats.append(td.text)
             
         return Col_Cats
     
@@ -30,7 +31,7 @@ class Career_Stats(Player):
         for thead in thead_tags:
             for tr in thead.find_all('tr',class_='player-table-key'):
                 td_tags = tr.find_all('td')
-                if 'two-row-top' in tr.attrs['class']:     
+                if 'two-row-top' in tr.attrs['class']:
                     Col_Cats = self.Get_Column_Categories(td_tags)
                     Has_Col_Cats = True
                 else:
@@ -43,7 +44,7 @@ class Career_Stats(Player):
         
         return Header
         
-    def Get_File_Name_And_Header_Length(self,thead_tags,stats_type):
+    def Get_File_Name_And_Header_Length(self,thead_tags,stats_type,filedir=None):
         File_Names = {'Passing':'Career_Stats_Passing.csv',
             'Rushing':'Career_Stats_Rushing.csv',
             'Receiving':'Career_Stats_Receiving.csv',
@@ -54,22 +55,35 @@ class Career_Stats(Player):
             'Offensive Line':'Career_Stats_Offensive_Line.csv',
             'Field Goal Kickers':'Career_Stats_Field_Goal_Kickers.csv',
             'Punting Stats':'Career_Stats_Punting.csv',
-            'Kickoff Stats':'Career_Stats_Kickoff.csv'}    
+            'Kickoff Stats':'Career_Stats_Kickoff.csv'}
+            
+        if filedir is not None:
+            File_Names = {'Passing':filedir/'Career_Stats_Passing.csv',
+                'Rushing':filedir/'Career_Stats_Rushing.csv',
+                'Receiving':filedir/'Career_Stats_Receiving.csv',
+                'Defensive':filedir/'Career_Stats_Defensive.csv',
+                'Fumbles':filedir/'Career_Stats_Fumbles.csv',
+                'Kick Return':filedir/'Career_Stats_Kick_Return.csv',
+                'Punt Return':filedir/'Career_Stats_Punt_Return.csv',
+                'Offensive Line':filedir/'Career_Stats_Offensive_Line.csv',
+                'Field Goal Kickers':filedir/'Career_Stats_Field_Goal_Kickers.csv',
+                'Punting Stats':filedir/'Career_Stats_Punting.csv',
+                'Kickoff Stats':filedir/'Career_Stats_Kickoff.csv'}
 
-        if not os.path.exists(File_Names[stats_type]):        
+        if not os.path.exists(File_Names[stats_type]):
             Header = ['Player Id','Name','Position']+self.Get_Table_Header(stats_type,thead_tags)
-            self.New_CSV_File(File_Names[stats_type],Header)   
+            self.New_CSV_File(File_Names[stats_type],Header)
         else:
             with open(File_Names[stats_type],newline='') as fout:
                 reader = csv.reader(fout)
                 Header = next(reader)
-        # The NFL website does not use the player id, name and position in 
+        # The NFL website does not use the player id, name and position in
         # their headers so it is subtracted from the header length
         return [File_Names[stats_type],len(Header)-3]
      
-    def Get_and_Store_Career_Stats(self):
+    def Get_and_Store_Career_Stats(self,filedir=None):
         url = 'http://www.nfl.com/player/'+self.player_id+'/careerstats'
-        soup = Get_HTML_Document(url,{})  
+        soup = Get_HTML_Document(url,{})
         
         self.Get_Player_Number_and_Position()
 
@@ -78,7 +92,10 @@ class Career_Stats(Player):
                 stats_type = div.text
             
             Stats = []
-            filename, header_length = self.Get_File_Name_And_Header_Length(table.find_all('thead'),stats_type)
+            filename, header_length = self.Get_File_Name_And_Header_Length(table.find_all('thead'),
+                stats_type,
+                filedir=filedir
+            )
             for table_body in table.find_all('tbody'):
                 tr_tags = table_body.find_all('tr')
                 tr_tags = filter(lambda x: x.attrs != {'class': ['datatabledatahead']},

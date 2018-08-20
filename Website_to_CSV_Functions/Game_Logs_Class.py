@@ -22,7 +22,7 @@ class Game_Logs(Player):
             if 'colspan' in td.attrs.keys():
                 Col_Cats += [td.text]*int(td.attrs['colspan'])
             else:
-                Col_Cats.append(td.text)            
+                Col_Cats.append(td.text)
             
         return Col_Cats
     
@@ -37,7 +37,7 @@ class Game_Logs(Player):
         for thead in thead_tags:
             for tr in thead.find_all('tr'):
                 td_tags = tr.find_all('td')
-                if 'player-table-header' in tr.attrs['class']:     
+                if 'player-table-header' in tr.attrs['class']:
                     Col_Cats = self.Get_Column_Categories(td_tags)
                 else:
                     Col_Names = self.Get_Column_Names(td_tags)
@@ -51,7 +51,7 @@ class Game_Logs(Player):
             file_identifier = [td.text for td in thead.find('tr').find_all('td')]
         return file_identifier[2:]
         
-    def Get_File_Name_And_Header_Length(self,thead_tags):
+    def Get_File_Name_And_Header_Length(self,thead_tags,filedir=None):
         file_identifier = self.Get_File_Identifier(thead_tags)
         
         if file_identifier == ['Passing', 'Rushing', 'Fumbles']:
@@ -67,36 +67,52 @@ class Game_Logs(Player):
         elif file_identifier == ['Overall FGs', 'PAT', 'Kickoffs']:
             filename = 'Game_Logs_Kickers.csv'
         elif file_identifier == ['Punter']:
-            filename = 'Game_Logs_Punters.csv'   
+            filename = 'Game_Logs_Punters.csv'
+        
+        if filedir is not None:
+            if file_identifier == ['Passing', 'Rushing', 'Fumbles']:
+                filename = filedir/'Game_Logs_Quarterback.csv'
+            elif file_identifier == ['Rushing', 'Receiving', 'Fumbles']:
+                filename = filedir/'Game_Logs_Runningback.csv'
+            elif file_identifier == ['Receiving', 'Rushing', 'Fumbles']:
+                filename = filedir/'Game_Logs_Wide_Receiver_and_Tight_End.csv'
+            elif file_identifier == []:
+                filename = filedir/'Game_Logs_Offensive_Line.csv'
+            elif file_identifier == ['Tackles', 'Interceptions', 'Fumbles']:
+                filename = filedir/'Game_Logs_Defensive_Lineman.csv'
+            elif file_identifier == ['Overall FGs', 'PAT', 'Kickoffs']:
+                filename = filedir/'Game_Logs_Kickers.csv'
+            elif file_identifier == ['Punter']:
+                filename = filedir/'Game_Logs_Punters.csv'
 
-        if not os.path.exists(filename):        
+        if not os.path.exists(filename):
             NFL_Headers = self.Get_Table_Header(thead_tags)
             Header = ['Player Id','Name','Position','Year','Season']+NFL_Headers
-            self.New_CSV_File(filename,Header)   
+            self.New_CSV_File(filename,Header)
         else:
             with open(filename,newline='') as fout:
                 reader = csv.reader(fout)
                 Header = next(reader)
-        # The NFL website does not use the player id, name and position in 
+        # The NFL website does not use the player id, name and position in
         # their headers so it is subtracted from the header length
         return [filename,len(Header)-3]
        
-    def Get_and_Store_Game_Logs(self):
+    def Get_and_Store_Game_Logs(self, filedir=None):
         url = 'http://www.nfl.com/player/'+self.player_id+'/gamelogs'
-        soup = Get_HTML_Document(url,{})  
+        soup = Get_HTML_Document(url,{})
 
         self.Get_Player_Number_and_Position()
         
         game_years = self.Get_Game_Years(soup)
         Stats = []
         for year in game_years:
-            soup = Get_HTML_Document(url,{'season':year})    
+            soup = Get_HTML_Document(url,{'season':year})
             for table in soup.find_all('table'):
                 headers = [td.text for td in table.find('tr').find_all('td')]
                 season = headers[0]
                 
                 thead_tags = table.find_all('thead')
-                filename, header_length = self.Get_File_Name_And_Header_Length(thead_tags)
+                filename, header_length = self.Get_File_Name_And_Header_Length(thead_tags, filedir=filedir)
                
                 In_Totals = False
                 for table_body in table.find_all('tbody'):
