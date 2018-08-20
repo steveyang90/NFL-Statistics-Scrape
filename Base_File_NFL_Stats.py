@@ -19,7 +19,7 @@ def Get_Players_and_Ids_From_CSV_File(filename):
 
 # Only one should be executed based on if you want to get the player names and
 # ids from a csv file or from the website.
-Players = Get_and_Store_All_Players_Names_and_Ids(DATAPATH/'Player_Ids_Urls.csv')
+Players = Get_and_Store_All_Players_Names_and_Ids(DATAPATH/'Player_Ids_Urls.csv', active_only=True)
 #Players = Get_Players_and_Ids_From_CSV_File('Player_Ids_Urls.csv')
 
 
