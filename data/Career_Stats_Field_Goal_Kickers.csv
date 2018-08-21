@@ -1,0 +1,268 @@
+Player Id,Name,Position,Year,Team,Games Played,Kicks Blocked,Longest FG Made,FGs Made,FGs Attempted,FG Percentage,FGs Made 20-29 Yards,FGs Attempted 20-29 Yards,FG Percentage 20-29 Yards,FGs Made 30-39 Yards,FGs Attempted 30-39 Yards,FG Percentage 30-39 Yards,FGs Made 40-49 Yards,FGs Attempted 40-49 Yards,FG Percentage 40-49 Yards,FGs Made 50+ Yards,FGs Attempted 50+ Yards,FG Percentage 50+ Yards,Extra Points Attempted,Extra Points Made,Percentage of Extra Points Made,Extra Points Blocked
+robertoaguayo/2555408,"Aguayo, Roberto",K,2016,Tampa Bay Buccaneers,16,1,43,22,31,71.0,5,5,100.0,13,15,86.7,4,10,40.0,0,1,0.0,34,32,94.1,0
+danbailey/2495259,"Bailey, Dan",K,2017,Dallas Cowboys,12,0,56,15,20,75.0,3,4,75.0,4,5,80.0,4,5,80.0,3,5,60.0,28,26,92.9,0
+danbailey/2495259,"Bailey, Dan",K,2016,Dallas Cowboys,16,0,56,27,32,84.4,9,9,100.0,8,8,100.0,7,9,77.8,3,6,50.0,46,46,100.0,0
+danbailey/2495259,"Bailey, Dan",K,2015,Dallas Cowboys,16,0,54,30,32,93.8,9,9,100.0,10,10,100.0,6,7,85.7,5,6,83.3,25,25,100.0,0
+danbailey/2495259,"Bailey, Dan",K,2014,Dallas Cowboys,16,1,56,25,29,86.2,6,6,100.0,6,7,85.7,8,9,88.9,5,7,71.4,56,56,100.0,0
+danbailey/2495259,"Bailey, Dan",K,2013,Dallas Cowboys,16,0,53,28,30,93.3,2,2,100.0,8,9,88.9,10,10,100.0,6,7,85.7,47,47,100.0,0
+danbailey/2495259,"Bailey, Dan",K,2012,Dallas Cowboys,16,0,51,29,31,93.5,5,5,100.0,13,13,100.0,7,7,100.0,3,5,60.0,37,37,100.0,0
+danbailey/2495259,"Bailey, Dan",K,2011,Dallas Cowboys,16,1,51,32,37,86.5,8,9,88.9,11,11,100.0,10,12,83.3,2,4,50.0,39,39,100.0,0
+chrisboswell/2550545,"Boswell, Chris",K,2017,Pittsburgh Steelers,16,1,53,35,38,92.1,10,10,100.0,12,14,85.7,9,10,90.0,4,4,100.0,39,37,94.9,1
+chrisboswell/2550545,"Boswell, Chris",K,2016,Pittsburgh Steelers,15,1,49,21,25,84.0,2,2,100.0,8,9,88.9,11,12,91.7,0,2,0.0,36,36,100.0,0
+chrisboswell/2550545,"Boswell, Chris",K,2015,Pittsburgh Steelers,12,0,51,29,32,90.6,9,9,100.0,8,8,100.0,9,12,75.0,2,2,100.0,27,26,96.3,0
+mattbryant/2504797,"Bryant, Matt",K,2017,Atlanta Falcons,16,2,57,34,39,87.2,6,6,100.0,10,13,76.9,9,10,90.0,8,9,88.9,35,35,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2016,Atlanta Falcons,16,1,59,34,37,91.9,12,12,100.0,7,8,87.5,9,9,100.0,6,8,75.0,57,56,98.2,0
+mattbryant/2504797,"Bryant, Matt",K,2015,Atlanta Falcons,10,0,47,14,18,77.8,4,4,100.0,3,4,75.0,6,9,66.7,0,0,0.0,26,26,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2014,Atlanta Falcons,16,1,54,29,32,90.6,10,10,100.0,4,4,100.0,8,8,100.0,7,10,70.0,40,40,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2013,Atlanta Falcons,16,0,53,24,27,88.9,9,9,100.0,7,8,87.5,5,5,100.0,3,5,60.0,39,39,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2012,Atlanta Falcons,16,0,55,33,38,86.8,8,9,88.9,10,11,90.9,10,13,76.9,4,4,100.0,44,44,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2011,Atlanta Falcons,16,0,51,27,29,93.1,9,9,100.0,9,9,100.0,5,7,71.4,2,2,100.0,45,45,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2010,Atlanta Falcons,16,1,51,28,31,90.3,11,11,100.0,8,9,88.9,8,10,80.0,1,1,100.0,44,44,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2009,Atlanta Falcons,5,2,51,7,10,70.0,2,2,100.0,4,4,100.0,0,2,0.0,1,2,50.0,10,10,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2008,Tampa Bay Buccaneers,16,0,49,32,38,84.2,12,12,100.0,15,15,100.0,5,8,62.5,0,3,0.0,36,35,97.2,1
+mattbryant/2504797,"Bryant, Matt",K,2007,Tampa Bay Buccaneers,16,0,49,28,33,84.8,11,12,91.7,11,11,100.0,6,7,85.7,0,3,0.0,34,34,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2006,Tampa Bay Buccaneers,16,0,62,17,22,77.3,8,8,100.0,3,3,100.0,5,9,55.6,1,2,50.0,23,22,95.7,1
+mattbryant/2504797,"Bryant, Matt",K,2005,Tampa Bay Buccaneers,15,0,50,21,25,84.0,2,4,50.0,8,8,100.0,10,11,90.9,1,2,50.0,31,31,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2004,Miami Dolphins,3,0,47,3,3,100.0,1,1,100.0,0,0,0.0,2,2,100.0,0,0,0.0,7,7,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2004,Indianapolis Colts,1,0,0,0,1,0.0,0,0,0.0,0,0,0.0,0,1,0.0,0,0,0.0,5,5,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2003,New York Giants,11,1,47,11,14,78.6,3,4,75.0,4,5,80.0,4,5,80.0,0,0,0.0,17,17,100.0,0
+mattbryant/2504797,"Bryant, Matt",K,2002,New York Giants,16,1,47,26,32,81.3,7,7,100.0,14,19,73.7,3,4,75.0,0,0,0.0,32,30,93.8,0
+randybullock/2533444,"Bullock, Randy",K,2017,Cincinnati Bengals,15,1,51,18,20,90.0,6,6,100.0,7,8,87.5,4,5,80.0,1,1,100.0,33,31,93.9,0
+randybullock/2533444,"Bullock, Randy",K,2016,Cincinnati Bengals,3,0,43,5,6,83.3,4,4,100.0,0,0,0.0,1,2,50.0,0,0,0.0,6,6,100.0,0
+randybullock/2533444,"Bullock, Randy",K,2016,Pittsburgh Steelers,1,0,44,3,3,100.0,0,0,0.0,2,2,100.0,1,1,100.0,0,0,0.0,1,1,100.0,0
+randybullock/2533444,"Bullock, Randy",K,2016,New York Giants,1,0,0,0,0,--,--,--,--,--,--,--,--,--,--,--,--,--,3,2,66.7,0
+randybullock/2533444,"Bullock, Randy",K,2015,New York Jets,8,0,49,14,17,82.4,4,4,100.0,4,4,100.0,6,8,75.0,0,1,0.0,20,19,95.0,0
+randybullock/2533444,"Bullock, Randy",K,2015,Houston Texans,3,0,47,5,6,83.3,0,0,0.0,2,2,100.0,2,3,66.7,0,0,0.0,5,3,60.0,0
+randybullock/2533444,"Bullock, Randy",K,2014,Houston Texans,16,2,55,30,35,85.7,6,7,85.7,13,15,86.7,7,8,87.5,4,5,80.0,40,40,100.0,0
+randybullock/2533444,"Bullock, Randy",K,2013,Houston Texans,16,1,51,26,35,74.3,7,7,100.0,5,5,100.0,12,17,70.6,1,5,20.0,26,26,100.0,0
+harrisonbutker/2558245,"Butker, Harrison",K,2017,Kansas City Chiefs,13,0,53,38,42,90.5,8,8,100.0,16,17,94.1,10,12,83.3,4,5,80.0,28,28,100.0,0
+harrisonbutker/2558245,"Butker, Harrison",K,2017,Carolina Panthers,0,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+chandlercatanzaro/2550325,"Catanzaro, Chandler",K,2017,New York Jets,16,1,57,25,30,83.3,6,6,100.0,4,4,100.0,12,17,70.6,2,2,100.0,29,29,100.0,0
+chandlercatanzaro/2550325,"Catanzaro, Chandler",K,2016,Arizona Cardinals,16,1,60,21,28,75.0,5,6,83.3,6,7,85.7,6,8,75.0,3,6,50.0,47,43,91.5,1
+chandlercatanzaro/2550325,"Catanzaro, Chandler",K,2015,Arizona Cardinals,16,0,47,28,31,90.3,12,12,100.0,9,9,100.0,6,7,85.7,0,2,0.0,58,53,91.4,0
+chandlercatanzaro/2550325,"Catanzaro, Chandler",K,2014,Arizona Cardinals,16,0,51,29,33,87.9,5,5,100.0,12,14,85.7,10,11,90.9,2,3,66.7,27,27,100.0,0
+masoncrosby/2507232,"Crosby, Mason",K,2017,Green Bay Packers,16,1,50,15,19,78.9,8,8,100.0,2,4,50.0,4,4,100.0,1,3,33.3,35,33,94.3,0
+masoncrosby/2507232,"Crosby, Mason",K,2016,Green Bay Packers,16,1,53,26,30,86.7,6,6,100.0,13,15,86.7,5,6,83.3,1,2,50.0,47,44,93.6,0
+masoncrosby/2507232,"Crosby, Mason",K,2015,Green Bay Packers,16,1,56,24,28,85.7,7,7,100.0,4,4,100.0,8,11,72.7,4,5,80.0,36,36,100.0,0
+masoncrosby/2507232,"Crosby, Mason",K,2014,Green Bay Packers,16,3,55,27,33,81.8,7,7,100.0,11,12,91.7,5,7,71.4,4,7,57.1,55,53,96.4,2
+masoncrosby/2507232,"Crosby, Mason",K,2013,Green Bay Packers,16,0,57,33,37,89.2,13,13,100.0,8,8,100.0,6,8,75.0,5,7,71.4,42,42,100.0,0
+masoncrosby/2507232,"Crosby, Mason",K,2012,Green Bay Packers,16,0,54,21,33,63.6,5,5,100.0,5,7,71.4,9,12,75.0,2,9,22.2,50,50,100.0,0
+masoncrosby/2507232,"Crosby, Mason",K,2011,Green Bay Packers,16,0,58,24,28,85.7,4,5,80.0,14,14,100.0,3,5,60.0,2,3,66.7,69,68,98.6,1
+masoncrosby/2507232,"Crosby, Mason",K,2010,Green Bay Packers,16,2,56,22,28,78.6,7,8,87.5,4,5,80.0,8,10,80.0,2,4,50.0,46,46,100.0,0
+masoncrosby/2507232,"Crosby, Mason",K,2009,Green Bay Packers,16,0,52,27,36,75.0,13,13,100.0,7,9,77.8,4,7,57.1,2,6,33.3,49,48,98.0,0
+masoncrosby/2507232,"Crosby, Mason",K,2008,Green Bay Packers,16,2,53,27,34,79.4,8,8,100.0,10,13,76.9,5,6,83.3,3,6,50.0,46,46,100.0,0
+masoncrosby/2507232,"Crosby, Mason",K,2007,Green Bay Packers,16,1,53,31,39,79.5,8,8,100.0,10,11,90.9,9,14,64.3,3,5,60.0,48,48,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2017,Arizona Cardinals,16,2,57,32,40,80.0,7,7,100.0,10,14,71.4,10,13,76.9,4,5,80.0,26,23,88.5,2
+phildawson/2500351,"Dawson, Phil",K,2016,San Francisco 49ers,16,0,53,18,21,85.7,4,4,100.0,6,6,100.0,7,9,77.8,1,2,50.0,34,33,97.1,0
+phildawson/2500351,"Dawson, Phil",K,2015,San Francisco 49ers,16,2,54,24,27,88.9,9,10,90.0,6,6,100.0,6,8,75.0,3,3,100.0,21,20,95.2,1
+phildawson/2500351,"Dawson, Phil",K,2014,San Francisco 49ers,16,1,55,25,31,80.6,6,6,100.0,8,9,88.9,5,7,71.4,6,9,66.7,33,33,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2013,San Francisco 49ers,16,0,56,32,36,88.9,12,13,92.3,6,6,100.0,10,11,90.9,4,6,66.7,44,44,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2012,Cleveland Browns,16,1,53,29,31,93.5,8,9,88.9,8,9,88.9,6,6,100.0,7,7,100.0,29,29,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2011,Cleveland Browns,16,2,54,24,29,82.8,7,9,77.8,3,4,75.0,7,8,87.5,7,8,87.5,20,20,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2010,Cleveland Browns,16,0,48,23,28,82.1,7,7,100.0,10,10,100.0,3,5,60.0,0,3,0.0,28,28,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2009,Cleveland Browns,11,0,49,17,19,89.5,7,7,100.0,5,5,100.0,5,6,83.3,0,1,0.0,19,18,94.7,1
+phildawson/2500351,"Dawson, Phil",K,2008,Cleveland Browns,16,0,56,30,36,83.3,10,10,100.0,12,14,85.7,5,6,83.3,3,6,50.0,18,18,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2007,Cleveland Browns,16,2,51,26,30,86.7,9,10,90.0,7,8,87.5,7,8,87.5,1,2,50.0,43,42,97.7,0
+phildawson/2500351,"Dawson, Phil",K,2006,Cleveland Browns,16,1,51,21,29,72.4,5,6,83.3,9,10,90.0,6,12,50.0,1,1,100.0,25,25,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2005,Cleveland Browns,16,0,44,27,29,93.1,11,11,100.0,9,11,81.8,5,5,100.0,0,0,0.0,21,19,90.5,1
+phildawson/2500351,"Dawson, Phil",K,2004,Cleveland Browns,16,0,50,24,29,82.8,11,11,100.0,6,8,75.0,6,9,66.7,1,1,100.0,28,28,100.0,0
+phildawson/2500351,"Dawson, Phil",K,2003,Cleveland Browns,13,0,52,18,21,85.7,7,7,100.0,4,5,80.0,3,5,60.0,2,2,100.0,21,20,95.2,1
+phildawson/2500351,"Dawson, Phil",K,2002,Cleveland Browns,16,1,52,22,28,78.6,9,10,90.0,6,8,75.0,5,7,71.4,2,3,66.7,35,34,97.1,0
+phildawson/2500351,"Dawson, Phil",K,2001,Cleveland Browns,16,0,48,22,25,88.0,10,10,100.0,8,9,88.9,4,6,66.7,0,0,0.0,30,29,96.7,0
+phildawson/2500351,"Dawson, Phil",K,2000,Cleveland Browns,16,0,45,14,17,82.4,4,4,100.0,5,5,100.0,2,5,40.0,0,0,0.0,17,17,100.0,0
+phildawson/2500351,"Dawson, Phil",K,1999,Cleveland Browns,15,0,49,8,12,66.7,2,2,100.0,3,5,60.0,3,5,60.0,0,0,0.0,24,23,95.8,1
+jakeelliott/2558172,"Elliott, Jake",K,2017,Philadelphia Eagles,15,0,61,26,31,83.9,5,5,100.0,4,7,57.1,12,13,92.3,5,6,83.3,42,39,92.9,0
+ka'imifairbairn/2556521,"Fairbairn, Ka'imi",K,2017,Houston Texans,16,0,55,20,25,80.0,3,4,75.0,8,10,80.0,6,7,85.7,3,4,75.0,35,32,91.4,0
+samficken/2557430,"Ficken, Sam",K,2017,Los Angeles Rams,2,0,23,2,3,66.7,2,2,100.0,0,1,0.0,0,0,0.0,0,0,0.0,5,4,80.0,0
+kaiforbath/2495150,"Forbath, Kai",K,2017,Minnesota Vikings,16,1,53,32,38,84.2,8,8,100.0,12,14,85.7,6,7,85.7,6,9,66.7,39,34,87.2,2
+kaiforbath/2495150,"Forbath, Kai",K,2016,Minnesota Vikings,7,0,51,15,15,100.0,5,5,100.0,5,5,100.0,4,4,100.0,1,1,100.0,14,11,78.6,1
+kaiforbath/2495150,"Forbath, Kai",K,2015,New Orleans Saints,10,2,57,9,13,69.2,2,3,66.7,3,4,75.0,2,3,66.7,2,3,66.7,34,33,97.1,0
+kaiforbath/2495150,"Forbath, Kai",K,2015,Washington Redskins,1,0,45,1,2,50.0,0,0,0.0,0,0,0.0,1,2,50.0,0,0,0.0,1,1,100.0,0
+kaiforbath/2495150,"Forbath, Kai",K,2014,Washington Redskins,16,0,49,24,27,88.9,11,11,100.0,6,7,85.7,7,8,87.5,0,1,0.0,32,31,96.9,1
+kaiforbath/2495150,"Forbath, Kai",K,2013,Washington Redskins,13,2,50,18,22,81.8,3,4,75.0,10,10,100.0,4,6,66.7,1,2,50.0,26,26,100.0,0
+kaiforbath/2495150,"Forbath, Kai",K,2012,Washington Redskins,11,0,50,17,18,94.4,3,3,100.0,2,3,66.7,11,11,100.0,1,1,100.0,34,33,97.1,1
+grahamgano/71309,"Gano, Graham",K,2017,Carolina Panthers,16,0,48,29,30,96.7,8,8,100.0,11,11,100.0,10,10,100.0,0,1,0.0,37,34,91.9,1
+grahamgano/71309,"Gano, Graham",K,2016,Carolina Panthers,16,0,54,30,38,78.9,4,4,100.0,9,11,81.8,14,17,82.4,3,6,50.0,34,31,91.2,2
+grahamgano/71309,"Gano, Graham",K,2015,Carolina Panthers,16,4,52,30,36,83.3,10,10,100.0,4,5,80.0,13,16,81.2,2,4,50.0,59,56,94.9,1
+grahamgano/71309,"Gano, Graham",K,2014,Carolina Panthers,16,1,53,29,35,82.9,7,7,100.0,12,13,92.3,9,12,75.0,1,3,33.3,34,34,100.0,0
+grahamgano/71309,"Gano, Graham",K,2013,Carolina Panthers,16,1,55,24,27,88.9,9,9,100.0,4,5,80.0,5,7,71.4,6,6,100.0,42,42,100.0,0
+grahamgano/71309,"Gano, Graham",K,2012,Carolina Panthers,6,0,51,9,11,81.8,3,3,100.0,3,3,100.0,2,3,66.7,1,2,50.0,21,20,95.2,0
+grahamgano/71309,"Gano, Graham",K,2011,Washington Redskins,16,5,59,31,41,75.6,14,15,93.3,5,9,55.6,8,11,72.7,4,6,66.7,26,25,96.2,1
+grahamgano/71309,"Gano, Graham",K,2010,Washington Redskins,16,1,49,24,35,68.6,8,10,80.0,4,7,57.1,11,14,78.6,0,3,0.0,28,28,100.0,0
+grahamgano/71309,"Gano, Graham",K,2009,Washington Redskins,4,0,46,4,4,100.0,2,2,100.0,0,0,0.0,2,2,100.0,0,0,0.0,7,6,85.7,1
+zanegonzalez/2558178,"Gonzalez, Zane",K,2017,Cleveland Browns,16,0,54,15,20,75.0,5,5,100.0,4,6,66.7,4,6,66.7,2,3,66.7,26,25,96.2,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2017,New England Patriots,16,0,62,37,40,92.5,16,16,100.0,9,9,100.0,8,11,72.7,4,4,100.0,47,45,95.7,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2016,New England Patriots,16,0,53,27,32,84.4,9,9,100.0,7,9,77.8,9,10,90.0,2,4,50.0,49,46,93.9,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2015,New England Patriots,16,0,57,33,36,91.7,6,6,100.0,11,11,100.0,12,14,85.7,4,5,80.0,52,52,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2014,New England Patriots,16,0,53,35,37,94.6,11,11,100.0,10,11,90.9,12,13,92.3,1,1,100.0,51,51,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2013,New England Patriots,16,0,54,38,41,92.7,8,8,100.0,13,13,100.0,11,13,84.6,5,6,83.3,44,44,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2012,New England Patriots,16,0,53,29,35,82.9,8,8,100.0,10,12,83.3,9,13,69.2,2,2,100.0,66,66,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2011,New England Patriots,16,0,50,28,33,84.8,12,13,92.3,5,6,83.3,9,11,81.8,1,2,50.0,59,59,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2010,New England Patriots,8,0,43,10,13,76.9,2,2,100.0,6,7,85.7,2,3,66.7,0,1,0.0,26,26,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2009,New England Patriots,16,0,53,26,31,83.9,7,7,100.0,12,13,92.3,5,8,62.5,2,3,66.7,47,47,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2008,New England Patriots,16,0,50,36,40,90.0,10,12,83.3,16,16,100.0,9,11,81.8,1,1,100.0,40,40,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2007,New England Patriots,16,0,45,21,24,87.5,10,10,100.0,8,9,88.9,3,5,60.0,0,0,0.0,74,74,100.0,0
+stephengostkowski/2506922,"Gostkowski, Stephen",K,2006,New England Patriots,16,2,52,20,26,76.9,10,11,90.9,7,10,70.0,2,4,50.0,1,1,100.0,44,43,97.7,1
+robbiegould/2506264,"Gould, Robbie",K,2017,San Francisco 49ers,16,1,52,39,41,95.1,7,8,87.5,11,11,100.0,17,18,94.4,4,4,100.0,30,28,93.3,1
+robbiegould/2506264,"Gould, Robbie",K,2016,New York Giants,10,0,47,10,10,100.0,3,3,100.0,3,3,100.0,4,4,100.0,0,0,0.0,23,20,87.0,0
+robbiegould/2506264,"Gould, Robbie",K,2015,Chicago Bears,16,0,55,33,39,84.6,8,8,100.0,10,12,83.3,7,9,77.8,7,9,77.8,29,28,96.6,1
+robbiegould/2506264,"Gould, Robbie",K,2014,Chicago Bears,12,0,45,9,12,75.0,4,4,100.0,2,3,66.7,3,4,75.0,0,1,0.0,29,28,96.6,1
+robbiegould/2506264,"Gould, Robbie",K,2013,Chicago Bears,16,0,58,26,29,89.7,11,11,100.0,6,7,85.7,6,7,85.7,3,4,75.0,46,45,97.8,1
+robbiegould/2506264,"Gould, Robbie",K,2012,Chicago Bears,13,2,54,21,25,84.0,7,7,100.0,5,7,71.4,7,9,77.8,2,2,100.0,33,33,100.0,0
+robbiegould/2506264,"Gould, Robbie",K,2011,Chicago Bears,16,0,57,28,32,87.5,10,10,100.0,6,6,100.0,6,10,60.0,6,6,100.0,37,37,100.0,0
+robbiegould/2506264,"Gould, Robbie",K,2010,Chicago Bears,16,1,54,25,30,83.3,9,9,100.0,8,9,88.9,4,7,57.1,3,4,75.0,35,35,100.0,0
+robbiegould/2506264,"Gould, Robbie",K,2009,Chicago Bears,16,2,52,24,28,85.7,9,9,100.0,6,6,100.0,7,10,70.0,2,3,66.7,33,33,100.0,0
+robbiegould/2506264,"Gould, Robbie",K,2008,Chicago Bears,16,2,48,26,29,89.7,6,6,100.0,12,12,100.0,8,11,72.7,0,0,0.0,41,41,100.0,0
+robbiegould/2506264,"Gould, Robbie",K,2007,Chicago Bears,16,2,49,31,36,86.1,7,7,100.0,12,13,92.3,12,14,85.7,0,2,0.0,33,33,100.0,0
+robbiegould/2506264,"Gould, Robbie",K,2006,Chicago Bears,16,1,49,32,36,88.9,6,6,100.0,14,16,87.5,12,14,85.7,0,0,0.0,47,47,100.0,0
+robbiegould/2506264,"Gould, Robbie",K,2005,Chicago Bears,13,0,45,21,27,77.8,9,9,100.0,9,10,90.0,3,8,37.5,0,0,0.0,20,19,95.0,0
+stephenhauschka/2507374,"Hauschka, Stephen",K,2017,Buffalo Bills,16,0,56,29,33,87.9,6,6,100.0,9,9,100.0,7,9,77.8,7,9,77.8,29,29,100.0,0
+stephenhauschka/2507374,"Hauschka, Stephen",K,2016,Seattle Seahawks,16,1,53,33,37,89.2,11,13,84.6,13,13,100.0,8,10,80.0,1,1,100.0,35,29,82.9,5
+stephenhauschka/2507374,"Hauschka, Stephen",K,2015,Seattle Seahawks,16,1,54,29,31,93.5,9,9,100.0,7,7,100.0,7,9,77.8,6,6,100.0,44,40,90.9,2
+stephenhauschka/2507374,"Hauschka, Stephen",K,2014,Seattle Seahawks,16,2,58,31,37,83.8,10,10,100.0,10,10,100.0,9,13,69.2,2,4,50.0,41,41,100.0,0
+stephenhauschka/2507374,"Hauschka, Stephen",K,2013,Seattle Seahawks,16,1,53,33,35,94.3,10,11,90.9,9,9,100.0,11,12,91.7,3,3,100.0,44,44,100.0,0
+stephenhauschka/2507374,"Hauschka, Stephen",K,2012,Seattle Seahawks,16,1,52,24,27,88.9,7,7,100.0,10,10,100.0,5,5,100.0,1,4,25.0,48,46,95.8,2
+stephenhauschka/2507374,"Hauschka, Stephen",K,2011,Seattle Seahawks,16,2,52,25,30,83.3,5,6,83.3,9,10,90.0,7,8,87.5,2,4,50.0,34,34,100.0,0
+stephenhauschka/2507374,"Hauschka, Stephen",K,2010,Denver Broncos,4,0,46,6,7,85.7,1,1,100.0,3,3,100.0,2,3,66.7,0,0,0.0,10,10,100.0,0
+stephenhauschka/2507374,"Hauschka, Stephen",K,2009,Atlanta Falcons,0,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+stephenhauschka/2507374,"Hauschka, Stephen",K,2009,Baltimore Ravens,9,0,44,9,13,69.2,1,1,100.0,5,7,71.4,3,5,60.0,0,0,0.0,28,27,96.4,1
+stephenhauschka/2507374,"Hauschka, Stephen",K,2008,Baltimore Ravens,8,0,54,1,2,50.0,0,0,0.0,0,0,0.0,0,0,0.0,1,2,50.0,0,0,--,0
+dustinhopkins/2539227,"Hopkins, Dustin",K,2017,Washington Redskins,8,0,49,14,17,82.4,7,7,100.0,2,2,100.0,4,5,80.0,0,2,0.0,19,18,94.7,0
+dustinhopkins/2539227,"Hopkins, Dustin",K,2016,Washington Redskins,16,0,53,34,42,81.0,12,12,100.0,12,14,85.7,7,9,77.8,3,7,42.9,39,36,92.3,0
+dustinhopkins/2539227,"Hopkins, Dustin",K,2015,Washington Redskins,15,1,54,25,28,89.3,7,7,100.0,9,9,100.0,7,8,87.5,2,4,50.0,40,39,97.5,0
+dustinhopkins/2539227,"Hopkins, Dustin",K,2013,Buffalo Bills,0,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2016,Oakland Raiders,16,0,56,29,35,82.9,9,9,100.0,6,6,100.0,10,11,90.9,3,8,37.5,39,37,94.9,1
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2015,Oakland Raiders,16,1,56,21,26,80.8,7,7,100.0,5,6,83.3,5,8,62.5,4,5,80.0,39,38,97.4,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2014,Oakland Raiders,16,0,57,19,22,86.4,2,2,100.0,5,5,100.0,9,10,90.0,3,5,60.0,28,28,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2013,Oakland Raiders,16,0,53,21,30,70.0,6,6,100.0,4,6,66.7,8,11,72.7,3,7,42.9,37,37,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2012,Oakland Raiders,16,0,57,31,34,91.2,9,9,100.0,10,10,100.0,5,5,100.0,6,9,66.7,25,25,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2011,Oakland Raiders,15,2,63,31,35,88.6,8,8,100.0,5,5,100.0,10,11,90.9,7,10,70.0,36,36,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2010,Oakland Raiders,16,0,59,33,41,80.5,8,8,100.0,13,14,92.9,8,12,66.7,4,7,57.1,43,43,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2009,Oakland Raiders,16,0,61,26,29,89.7,3,3,100.0,8,8,100.0,9,10,90.0,6,8,75.0,17,17,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2008,Oakland Raiders,16,0,57,24,30,80.0,11,11,100.0,8,8,100.0,2,4,50.0,3,7,42.9,26,25,96.2,1
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2007,Oakland Raiders,16,1,54,23,32,71.9,4,4,100.0,6,7,85.7,7,10,70.0,6,11,54.5,28,28,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2006,Oakland Raiders,16,0,55,18,25,72.0,2,3,66.7,9,11,81.8,3,3,100.0,3,7,42.9,16,16,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2005,Oakland Raiders,16,1,49,20,30,66.7,7,8,87.5,5,6,83.3,7,12,58.3,0,3,0.0,30,30,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2004,Oakland Raiders,16,0,52,25,28,89.3,7,7,100.0,7,8,87.5,8,10,80.0,2,2,100.0,32,31,96.9,1
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2003,Oakland Raiders,16,1,55,22,25,88.0,6,6,100.0,6,6,100.0,9,10,90.0,1,3,33.3,29,28,96.6,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2002,Oakland Raiders,16,2,51,26,33,78.8,10,11,90.9,7,8,87.5,7,12,58.3,2,2,100.0,50,50,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2001,Oakland Raiders,15,1,52,23,28,82.1,7,7,100.0,9,10,90.0,6,9,66.7,1,2,50.0,42,42,100.0,0
+sebastianjanikowski/2504257,"Janikowski, Sebastian",K,2000,Oakland Raiders,14,0,54,22,32,68.8,6,6,100.0,6,7,85.7,8,14,57.1,1,4,25.0,46,46,100.0,0
+joshlambo/2553833,"Lambo, Josh",K,2017,Jacksonville Jaguars,10,0,56,19,20,95.0,2,2,100.0,11,11,100.0,4,5,80.0,2,2,100.0,24,22,91.7,1
+joshlambo/2553833,"Lambo, Josh",K,2016,San Diego Chargers,16,1,47,26,32,81.3,7,7,100.0,13,14,92.9,6,8,75.0,0,3,0.0,46,42,91.3,3
+joshlambo/2553833,"Lambo, Josh",K,2015,San Diego Chargers,16,0,54,26,32,81.3,4,4,100.0,7,7,100.0,11,16,68.8,4,5,80.0,32,28,87.5,1
+shanelechler/2504319,"Lechler, Shane",P,2017,Houston Texans,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2016,Houston Texans,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2015,Houston Texans,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2014,Houston Texans,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2013,Houston Texans,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2012,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2011,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2010,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2009,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2008,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2007,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2006,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2005,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2004,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2003,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2002,Oakland Raiders,14,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2001,Oakland Raiders,16,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+shanelechler/2504319,"Lechler, Shane",P,2000,Oakland Raiders,16,0,0,0,1,0.0,0,0,0.0,0,1,0.0,0,0,0.0,0,0,0.0,7,7,100.0,0
+willutz/2556601,"Lutz, Wil",K,2017,New Orleans Saints,16,0,53,31,36,86.1,10,10,100.0,4,5,80.0,13,16,81.2,4,5,80.0,50,47,94.0,2
+willutz/2556601,"Lutz, Wil",K,2016,New Orleans Saints,16,2,57,28,34,82.4,7,7,100.0,9,11,81.8,8,8,100.0,3,7,42.9,50,49,98.0,1
+brandonmcmanus/2541556,"McManus, Brandon",K,2017,Denver Broncos,16,2,53,24,32,75.0,6,8,75.0,11,12,91.7,4,6,66.7,3,6,50.0,27,27,100.0,0
+brandonmcmanus/2541556,"McManus, Brandon",K,2016,Denver Broncos,16,0,55,29,34,85.3,9,9,100.0,10,10,100.0,7,9,77.8,3,6,50.0,33,32,97.0,1
+brandonmcmanus/2541556,"McManus, Brandon",K,2015,Denver Broncos,16,0,57,30,35,85.7,12,12,100.0,8,8,100.0,5,8,62.5,5,7,71.4,36,35,97.2,0
+brandonmcmanus/2541556,"McManus, Brandon",K,2014,Denver Broncos,15,0,44,9,13,69.2,5,5,100.0,2,3,66.7,2,3,66.7,0,2,0.0,41,41,100.0,0
+jasonmyers/2553112,"Myers, Jason",K,2017,Jacksonville Jaguars,6,0,47,11,15,73.3,4,4,100.0,2,3,66.7,5,5,100.0,0,3,0.0,17,15,88.2,0
+jasonmyers/2553112,"Myers, Jason",K,2016,Jacksonville Jaguars,16,2,56,27,34,79.4,7,7,100.0,3,4,75.0,10,11,90.9,7,12,58.3,32,29,90.6,0
+jasonmyers/2553112,"Myers, Jason",K,2015,Jacksonville Jaguars,16,1,58,26,30,86.7,9,10,90.0,8,8,100.0,6,8,75.0,3,4,75.0,39,32,82.1,0
+mikenugent/2506386,"Nugent, Mike",K,2017,Chicago Bears,4,0,55,4,4,100.0,1,1,100.0,1,1,100.0,1,1,100.0,1,1,100.0,9,7,77.8,1
+mikenugent/2506386,"Nugent, Mike",K,2017,Dallas Cowboys,4,0,48,7,9,77.8,2,2,100.0,2,3,66.7,3,4,75.0,0,0,0.0,8,8,100.0,0
+mikenugent/2506386,"Nugent, Mike",K,2016,Cincinnati Bengals,13,0,47,23,29,79.3,9,9,100.0,9,10,90.0,5,7,71.4,0,3,0.0,29,23,79.3,0
+mikenugent/2506386,"Nugent, Mike",K,2015,Cincinnati Bengals,16,1,52,23,28,82.1,6,6,100.0,5,6,83.3,10,13,76.9,2,3,66.7,49,48,98.0,1
+mikenugent/2506386,"Nugent, Mike",K,2014,Cincinnati Bengals,16,1,49,26,33,78.8,6,6,100.0,10,12,83.3,10,12,83.3,0,3,0.0,39,39,100.0,0
+mikenugent/2506386,"Nugent, Mike",K,2013,Cincinnati Bengals,16,0,54,18,22,81.8,2,2,100.0,6,7,85.7,7,9,77.8,3,4,75.0,53,52,98.1,1
+mikenugent/2506386,"Nugent, Mike",K,2012,Cincinnati Bengals,12,0,55,19,23,82.6,5,5,100.0,5,5,100.0,6,9,66.7,1,2,50.0,35,35,100.0,0
+mikenugent/2506386,"Nugent, Mike",K,2011,Cincinnati Bengals,16,1,49,33,38,86.8,14,14,100.0,5,8,62.5,14,16,87.5,0,0,0.0,34,33,97.1,0
+mikenugent/2506386,"Nugent, Mike",K,2010,Cincinnati Bengals,9,1,54,15,19,78.9,5,5,100.0,7,7,100.0,1,3,33.3,2,4,50.0,17,17,100.0,0
+mikenugent/2506386,"Nugent, Mike",K,2009,Arizona Cardinals,2,0,48,2,2,100.0,0,0,0.0,0,0,0.0,1,1,100.0,0,0,0.0,8,8,100.0,0
+mikenugent/2506386,"Nugent, Mike",K,2009,Tampa Bay Buccaneers,4,1,37,2,6,33.3,1,1,100.0,1,2,50.0,0,3,0.0,0,0,0.0,6,6,100.0,0
+mikenugent/2506386,"Nugent, Mike",K,2008,New York Jets,1,0,0,0,1,0.0,0,0,0.0,0,1,0.0,0,0,0.0,0,0,0.0,2,2,100.0,0
+mikenugent/2506386,"Nugent, Mike",K,2007,New York Jets,16,0,50,29,36,80.6,11,11,100.0,10,12,83.3,6,8,75.0,1,4,25.0,24,23,95.8,1
+mikenugent/2506386,"Nugent, Mike",K,2006,New York Jets,16,0,54,24,27,88.9,7,7,100.0,10,12,83.3,4,4,100.0,2,3,66.7,35,34,97.1,0
+mikenugent/2506386,"Nugent, Mike",K,2005,New York Jets,16,1,49,22,28,78.6,8,9,88.9,7,7,100.0,7,10,70.0,0,2,0.0,24,24,100.0,0
+codyparkey/2550380,"Parkey, Cody",K,2017,Miami Dolphins,16,0,54,21,23,91.3,6,6,100.0,8,8,100.0,6,7,85.7,1,2,50.0,29,26,89.7,0
+codyparkey/2550380,"Parkey, Cody",K,2016,Cleveland Browns,14,0,51,20,25,80.0,6,6,100.0,6,6,100.0,7,12,58.3,1,1,100.0,21,20,95.2,0
+codyparkey/2550380,"Parkey, Cody",K,2015,Philadelphia Eagles,3,0,46,3,4,75.0,1,1,100.0,1,1,100.0,1,2,50.0,0,0,0.0,7,7,100.0,0
+codyparkey/2550380,"Parkey, Cody",K,2014,Philadelphia Eagles,16,0,54,32,36,88.9,10,10,100.0,14,16,87.5,4,6,66.7,4,4,100.0,54,54,100.0,0
+mattprater/2506677,"Prater, Matt",K,2017,Detroit Lions,16,0,58,30,35,85.7,4,4,100.0,10,10,100.0,7,8,87.5,7,11,63.6,41,40,97.6,0
+mattprater/2506677,"Prater, Matt",K,2016,Detroit Lions,16,0,58,31,36,86.1,10,10,100.0,4,5,80.0,10,14,71.4,7,7,100.0,33,31,93.9,1
+mattprater/2506677,"Prater, Matt",K,2015,Detroit Lions,16,0,59,22,24,91.7,3,3,100.0,8,9,88.9,6,6,100.0,5,6,83.3,39,36,92.3,1
+mattprater/2506677,"Prater, Matt",K,2014,Detroit Lions,11,2,52,21,26,80.8,8,8,100.0,4,5,80.0,6,8,75.0,3,5,60.0,21,21,100.0,0
+mattprater/2506677,"Prater, Matt",K,2013,Denver Broncos,16,0,64,25,26,96.2,4,4,100.0,5,5,100.0,8,8,100.0,6,7,85.7,75,75,100.0,0
+mattprater/2506677,"Prater, Matt",K,2012,Denver Broncos,16,0,53,26,32,81.3,7,7,100.0,10,11,90.9,5,9,55.6,3,4,75.0,55,55,100.0,0
+mattprater/2506677,"Prater, Matt",K,2011,Denver Broncos,16,1,59,19,25,76.0,5,6,83.3,8,8,100.0,3,7,42.9,3,4,75.0,30,30,100.0,0
+mattprater/2506677,"Prater, Matt",K,2010,Denver Broncos,12,0,59,16,18,88.9,3,3,100.0,7,7,100.0,4,5,80.0,2,3,66.7,29,28,96.6,0
+mattprater/2506677,"Prater, Matt",K,2009,Denver Broncos,16,0,51,30,35,85.7,14,14,100.0,6,8,75.0,8,10,80.0,2,3,66.7,32,32,100.0,0
+mattprater/2506677,"Prater, Matt",K,2008,Denver Broncos,16,0,56,25,34,73.5,7,8,87.5,8,9,88.9,5,11,45.5,5,6,83.3,40,39,97.5,0
+mattprater/2506677,"Prater, Matt",K,2007,Denver Broncos,2,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--
+mattprater/2506677,"Prater, Matt",K,2007,Atlanta Falcons,2,0,45,1,4,25.0,0,1,0.0,0,0,0.0,1,3,33.3,0,0,0.0,1,1,100.0,0
+aldrickrosas/2556771,"Rosas, Aldrick",K,2017,New York Giants,16,2,52,18,25,72.0,8,8,100.0,3,5,60.0,4,9,44.4,3,3,100.0,23,20,87.0,2
+nickrose/2556450,"Rose, Nick",K,2017,Los Angeles Chargers,2,1,25,1,3,33.3,1,1,100.0,0,0,0.0,0,1,0.0,0,1,0.0,6,5,83.3,1
+nickrose/2556450,"Rose, Nick",K,2017,Washington Redskins,8,1,55,10,11,90.9,5,5,100.0,3,4,75.0,1,1,100.0,1,1,100.0,20,18,90.0,0
+cairosantos/2550636,"Santos, Cairo",K,2017,Chicago Bears,2,0,38,1,2,50.0,0,0,0.0,1,1,100.0,0,0,0.0,0,1,0.0,2,2,100.0,0
+cairosantos/2550636,"Santos, Cairo",K,2017,Kansas City Chiefs,3,0,39,3,3,100.0,0,0,0.0,3,3,100.0,0,0,0.0,0,0,0.0,12,12,100.0,0
+cairosantos/2550636,"Santos, Cairo",K,2016,Kansas City Chiefs,16,0,54,31,35,88.6,8,9,88.9,15,17,88.2,6,7,85.7,2,2,100.0,39,36,92.3,1
+cairosantos/2550636,"Santos, Cairo",K,2015,Kansas City Chiefs,16,1,53,30,37,81.1,7,8,87.5,10,10,100.0,9,11,81.8,4,8,50.0,41,39,95.1,0
+cairosantos/2550636,"Santos, Cairo",K,2014,Kansas City Chiefs,16,0,53,25,30,83.3,10,10,100.0,6,7,85.7,7,10,70.0,1,2,50.0,38,38,100.0,0
+calebsturgis/2539637,"Sturgis, Caleb",K,2017,Philadelphia Eagles,1,0,50,3,3,100.0,0,0,0.0,1,1,100.0,1,1,100.0,1,1,100.0,2,1,50.0,0
+calebsturgis/2539637,"Sturgis, Caleb",K,2016,Philadelphia Eagles,16,1,55,35,41,85.4,12,12,100.0,12,12,100.0,7,11,63.6,4,6,66.7,31,30,96.8,0
+calebsturgis/2539637,"Sturgis, Caleb",K,2015,Philadelphia Eagles,13,0,53,18,22,81.8,4,4,100.0,8,10,80.0,4,4,100.0,2,4,50.0,37,35,94.6,0
+calebsturgis/2539637,"Sturgis, Caleb",K,2014,Miami Dolphins,16,2,53,29,37,78.4,12,12,100.0,7,8,87.5,6,10,60.0,3,6,50.0,41,41,100.0,0
+calebsturgis/2539637,"Sturgis, Caleb",K,2013,Miami Dolphins,16,1,54,26,34,76.5,4,4,100.0,10,12,83.3,8,10,80.0,3,7,42.9,33,33,100.0,0
+ryansuccop/89802,"Succop, Ryan",K,2017,Tennessee Titans,16,1,52,35,42,83.3,10,10,100.0,7,7,100.0,16,20,80.0,2,5,40.0,33,31,93.9,1
+ryansuccop/89802,"Succop, Ryan",K,2016,Tennessee Titans,16,0,53,22,24,91.7,4,4,100.0,6,6,100.0,8,8,100.0,3,5,60.0,41,39,95.1,1
+ryansuccop/89802,"Succop, Ryan",K,2015,Tennessee Titans,16,0,51,14,16,87.5,3,3,100.0,3,3,100.0,7,7,100.0,1,3,33.3,31,29,93.5,1
+ryansuccop/89802,"Succop, Ryan",K,2014,Tennessee Titans,16,0,51,19,22,86.4,5,5,100.0,7,7,100.0,5,8,62.5,2,2,100.0,27,27,100.0,0
+ryansuccop/89802,"Succop, Ryan",K,2013,Kansas City Chiefs,16,1,51,22,28,78.6,6,6,100.0,9,10,90.0,6,8,75.0,1,4,25.0,52,52,100.0,0
+ryansuccop/89802,"Succop, Ryan",K,2012,Kansas City Chiefs,16,0,52,28,34,82.4,4,5,80.0,12,15,80.0,10,12,83.3,2,2,100.0,17,17,100.0,0
+ryansuccop/89802,"Succop, Ryan",K,2011,Kansas City Chiefs,16,2,54,24,30,80.0,7,7,100.0,6,7,85.7,7,12,58.3,3,3,100.0,20,20,100.0,0
+ryansuccop/89802,"Succop, Ryan",K,2010,Kansas City Chiefs,16,1,53,20,26,76.9,6,6,100.0,7,9,77.8,6,8,75.0,1,3,33.3,42,42,100.0,0
+ryansuccop/89802,"Succop, Ryan",K,2009,Kansas City Chiefs,16,1,53,25,29,86.2,10,10,100.0,7,7,100.0,6,7,85.7,2,5,40.0,29,29,100.0,0
+giorgiotavecchio/2535686,"Tavecchio, Giorgio",K,2017,Oakland Raiders,16,1,53,16,21,76.2,5,5,100.0,5,7,71.4,3,5,60.0,3,4,75.0,34,33,97.1,0
+justintucker/2536340,"Tucker, Justin",K,2017,Baltimore Ravens,16,1,57,34,37,91.9,7,7,100.0,11,11,100.0,11,12,91.7,5,7,71.4,39,39,100.0,0
+justintucker/2536340,"Tucker, Justin",K,2016,Baltimore Ravens,16,1,57,38,39,97.4,4,4,100.0,10,11,90.9,14,14,100.0,10,10,100.0,27,27,100.0,0
+justintucker/2536340,"Tucker, Justin",K,2015,Baltimore Ravens,16,0,52,33,40,82.5,10,10,100.0,9,9,100.0,10,11,90.9,4,10,40.0,29,29,100.0,0
+justintucker/2536340,"Tucker, Justin",K,2014,Baltimore Ravens,16,1,55,29,34,85.3,10,10,100.0,11,11,100.0,4,4,100.0,4,9,44.4,42,42,100.0,0
+justintucker/2536340,"Tucker, Justin",K,2013,Baltimore Ravens,16,0,61,38,41,92.7,10,10,100.0,12,13,92.3,10,11,90.9,6,7,85.7,26,26,100.0,0
+justintucker/2536340,"Tucker, Justin",K,2012,Baltimore Ravens,16,0,56,30,33,90.9,8,8,100.0,8,8,100.0,10,13,76.9,4,4,100.0,42,42,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2017,Indianapolis Colts,15,1,54,29,34,85.3,11,11,100.0,7,10,70.0,6,7,85.7,5,6,83.3,24,22,91.7,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2016,Indianapolis Colts,16,0,54,27,31,87.1,3,3,100.0,7,7,100.0,10,12,83.3,7,9,77.8,44,44,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2015,Indianapolis Colts,16,0,55,25,27,92.6,7,8,87.5,6,6,100.0,8,8,100.0,4,5,80.0,35,32,91.4,1
+adamvinatieri/2503471,"Vinatieri, Adam",K,2014,Indianapolis Colts,16,0,53,30,31,96.8,10,10,100.0,10,10,100.0,7,8,87.5,3,3,100.0,50,50,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2013,Indianapolis Colts,15,1,52,35,40,87.5,6,6,100.0,10,11,90.9,15,17,88.2,4,6,66.7,34,34,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2012,Indianapolis Colts,16,2,53,26,33,78.8,8,8,100.0,4,7,57.1,9,10,90.0,4,7,57.1,37,37,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2011,Indianapolis Colts,16,1,53,23,27,85.2,7,7,100.0,6,7,85.7,8,10,80.0,2,3,66.7,24,24,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2010,Indianapolis Colts,16,1,48,26,28,92.9,8,8,100.0,9,10,90.0,9,10,90.0,0,0,0.0,51,51,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2009,Indianapolis Colts,6,0,48,7,9,77.8,3,3,100.0,1,2,50.0,2,2,100.0,0,1,0.0,18,17,94.4,1
+adamvinatieri/2503471,"Vinatieri, Adam",K,2008,Indianapolis Colts,16,1,52,20,25,80.0,3,3,100.0,11,13,84.6,4,7,57.1,2,2,100.0,43,43,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2007,Indianapolis Colts,16,1,39,23,29,79.3,14,15,93.3,8,10,80.0,0,2,0.0,0,1,0.0,51,49,96.1,2
+adamvinatieri/2503471,"Vinatieri, Adam",K,2006,Indianapolis Colts,13,0,48,25,28,89.3,3,3,100.0,12,13,92.3,9,10,90.0,0,1,0.0,38,38,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2005,New England Patriots,16,0,49,20,25,80.0,7,7,100.0,9,10,90.0,4,6,66.7,0,2,0.0,41,40,97.6,1
+adamvinatieri/2503471,"Vinatieri, Adam",K,2004,New England Patriots,16,0,48,31,33,93.9,13,13,100.0,7,7,100.0,11,12,91.7,0,1,0.0,48,48,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2003,New England Patriots,16,1,48,25,34,73.5,16,17,94.1,4,8,50.0,5,8,62.5,0,1,0.0,38,37,97.4,1
+adamvinatieri/2503471,"Vinatieri, Adam",K,2002,New England Patriots,16,0,57,27,30,90.0,6,6,100.0,12,12,100.0,8,10,80.0,1,2,50.0,36,36,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,2001,New England Patriots,16,0,54,24,30,80.0,8,8,100.0,7,8,87.5,7,12,58.3,1,1,100.0,42,41,97.6,1
+adamvinatieri/2503471,"Vinatieri, Adam",K,2000,New England Patriots,16,0,53,27,33,81.8,11,13,84.6,8,9,88.9,7,8,87.5,1,3,33.3,25,25,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,1999,New England Patriots,16,0,51,26,33,78.8,14,14,100.0,5,7,71.4,5,9,55.6,1,2,50.0,30,29,96.7,1
+adamvinatieri/2503471,"Vinatieri, Adam",K,1998,New England Patriots,16,1,55,31,39,79.5,8,8,100.0,9,14,64.3,9,12,75.0,2,2,100.0,32,32,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,1997,New England Patriots,16,0,52,25,29,86.2,11,11,100.0,7,9,77.8,6,8,75.0,1,1,100.0,40,40,100.0,0
+adamvinatieri/2503471,"Vinatieri, Adam",K,1996,New England Patriots,16,1,50,27,35,77.1,9,10,90.0,8,8,100.0,8,14,57.1,1,2,50.0,42,39,92.9,1
+gregzuerlein/2534797,"Zuerlein, Greg",K,2017,Los Angeles Rams,14,0,56,38,40,95.0,8,8,100.0,11,12,91.7,12,12,100.0,6,7,85.7,46,44,95.7,0
+gregzuerlein/2534797,"Zuerlein, Greg",K,2016,Los Angeles Rams,16,0,54,19,22,86.4,5,5,100.0,9,9,100.0,3,4,75.0,2,4,50.0,23,23,100.0,0
+gregzuerlein/2534797,"Zuerlein, Greg",K,2015,St. Louis Rams,14,3,61,20,30,66.7,2,2,100.0,9,10,90.0,5,8,62.5,3,9,33.3,28,26,92.9,1
+gregzuerlein/2534797,"Zuerlein, Greg",K,2014,St. Louis Rams,16,1,56,24,30,80.0,6,7,85.7,10,12,83.3,2,3,66.7,5,7,71.4,35,34,97.1,0
+gregzuerlein/2534797,"Zuerlein, Greg",K,2013,St. Louis Rams,16,0,54,26,28,92.9,7,7,100.0,10,10,100.0,8,9,88.9,1,2,50.0,34,34,100.0,0
+gregzuerlein/2534797,"Zuerlein, Greg",K,2012,St. Louis Rams,16,0,60,23,31,74.2,4,4,100.0,4,6,66.7,7,7,100.0,7,13,53.8,26,26,100.0,0
