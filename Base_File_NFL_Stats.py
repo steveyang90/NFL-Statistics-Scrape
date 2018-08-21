@@ -20,8 +20,7 @@ def Get_Players_and_Ids_From_CSV_File(filename):
 # Only one should be executed based on if you want to get the player names and
 # ids from a csv file or from the website.
 Players = Get_and_Store_All_Players_Names_and_Ids(DATAPATH/'Player_Ids_Urls.csv', active_only=True)
-#Players = Get_Players_and_Ids_From_CSV_File('Player_Ids_Urls.csv')
-
+# Players = Get_Players_and_Ids_From_CSV_File(DATAPATH/'Player_Ids_Urls.csv')
 
 # Get Basic Statistics
 count = 1
@@ -33,17 +32,6 @@ for player_id in Players:
         time.sleep(random.uniform(0.5,1))
     count+=1
 
-# Get Career Stats
-count = 1
-for player_id in Players:
-    player = Career_Stats(Players[player_id])
-    if Check_for_Stats_Webpage(player,'Career Stats'):
-        player.Get_and_Store_Career_Stats(filedir=DATAPATH)
-    if count % 100 == 0:
-        print('Processed career stats for %d out of %d players' % (count,len(Players)))
-        time.sleep(random.uniform(0.5,1))
-    count+=1
-
 # Get Game Logs
 count = 1
 for player_id in Players:
@@ -52,5 +40,16 @@ for player_id in Players:
         player.Get_and_Store_Game_Logs(filedir=DATAPATH)
     if count % 100 == 0:
         print('Processed game logs for %d out of %d players' % (count,len(Players)))
+        time.sleep(random.uniform(0.5,1))
+    count+=1
+    
+# Get Career Stats
+count = 1
+for player_id in Players:
+    player = Career_Stats(Players[player_id])
+    if Check_for_Stats_Webpage(player,'Career Stats'):
+        player.Get_and_Store_Career_Stats(filedir=DATAPATH)
+    if count % 100 == 0:
+        print('Processed career stats for %d out of %d players' % (count,len(Players)))
         time.sleep(random.uniform(0.5,1))
     count+=1
