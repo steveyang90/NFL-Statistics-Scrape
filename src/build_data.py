@@ -264,21 +264,27 @@ points_map = {'Complete Passes': 0.2,
 # Running Backs
 df = pd.read_csv(INTERIM/'rb_game_logs.csv')
 df_fp = compute_fantasy_points(df, points_map)
+df_fp.to_csv(INTERIM/'rb_fp_log_psk.csv', index=False)
+print_save_path(INTERIM/'rb_fp_log_psk.csv')
 df_fp_season = aggregate_fantasy_points(df_fp)
-df_fp_season.to_csv(INTERIM/'rb_fantasy_points_psk.csv', index=False)
-print_save_path(INTERIM/'rb_fantasy_points_psk.csv')
+df_fp_season.to_csv(INTERIM/'rb_fp_season_psk.csv', index=False)
+print_save_path(INTERIM/'rb_fp_season_psk.csv')
 
 # Wide Receivers
 df = pd.read_csv(INTERIM/'wr_game_logs.csv')
 df_fp = compute_fantasy_points(df, points_map)
+df_fp.to_csv(INTERIM/'wr_fp_log_psk.csv', index=False)
+print_save_path(INTERIM/'wr_fp_log_psk.csv')
 df_fp_season = aggregate_fantasy_points(df_fp)
-df_fp_season.to_csv(INTERIM/'wr_fantasy_points_psk.csv', index=False)
-print_save_path(INTERIM/'wr_fantasy_points_psk.csv')
+df_fp_season.to_csv(INTERIM/'wr_fp_season_psk.csv', index=False)
+print_save_path(INTERIM/'wr_fp_season_psk.csv')
 
 # Tight Ends
 df = pd.read_csv(INTERIM/'te_game_logs.csv')
 df_fp = compute_fantasy_points(df, points_map)
+df_fp.to_csv(INTERIM/'te_fp_log_psk.csv', index=False)
+print_save_path(INTERIM/'te_fp_log_psk.csv')
 df_fp_season = aggregate_fantasy_points(df_fp)
-df_fp_season.to_csv(INTERIM/'te_fantasy_points_psk.csv', index=False)
-print_save_path(INTERIM/'te_fantasy_points_psk.csv')
+df_fp_season.to_csv(INTERIM/'te_fp_season_psk.csv', index=False)
+print_save_path(INTERIM/'te_fp_season_psk.csv')
 
